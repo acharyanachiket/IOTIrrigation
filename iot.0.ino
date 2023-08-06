@@ -3,9 +3,9 @@
 #include <BlynkSimpleEsp8266.h>
 
 //Authentication details
-char auth[] = "GD49FPCqM__O99lpZErhwvocrFpikPn4";//Enter your Auth token
-char ssid[] = "Nachu";//Enter your WIFI name
-char pass[] = "nv@nv@2021";//Enter your WIFI password
+char auth[] = "";//Enter your Auth token
+char ssid[] = "";//Enter your WIFI name
+char pass[] = "";//Enter your WIFI password
 
 //Pin defines
 #define sensor A0
